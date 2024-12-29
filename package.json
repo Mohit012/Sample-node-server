@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "My node js learning journey ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node.js",
+    "dev": "nodemon node.js"
+  },
+  "author": "Mohit",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7",
+    "yoctocolors": "^2.1.1"
+  }
+}
